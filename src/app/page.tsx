@@ -66,7 +66,7 @@ export default function CodeToImage() {
               Code<span className="text-[#e91e63]">SNAP</span>
             </h1>
             <p className="text-[10px] font-bold bg-black text-white px-2 py-1 mt-2 inline-block skew-x-[-10deg]">
-              "Koding secukupnya, estetik semampunya."
+              Koding secukupnya, estetik semampunya.
             </p>
           </div>
         </div>
@@ -162,7 +162,7 @@ export default function CodeToImage() {
               
               <div className="mt-12 group cursor-crosshair">
                 <div className="bg-black text-white px-10 py-3 font-black italic text-xl shadow-[6px_6px_0px_0px_rgba(233,30,99,1)] group-hover:shadow-[10px_10px_0px_0px_rgba(233,30,99,1)] transition-all uppercase tracking-widest text-sm">
-                  "Snap kodenya, pamerin hasilnya."
+                  Snap kodenya, pamerin hasilnya.
                 </div>
               </div>
             </div>
