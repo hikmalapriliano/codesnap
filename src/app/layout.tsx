@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SmartCode Snap - Saweria Style",
-  description: "Bikin screenshot kode estetik ala Saweria",
+  title: "SmartCode Snap",
+  description: "Bikin screenshot kode estetik",
 };
 
 export default function RootLayout({
