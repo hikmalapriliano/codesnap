@@ -44,7 +44,6 @@ export default function CodeToImage() {
     try {
       const dataUrl = await htmlToImage.toPng(previewRef.current, { 
         pixelRatio: 3,
-        backgroundColor: null,
       });
       const link = document.createElement('a');
       link.download = `codesnap-${Date.now()}.png`;
