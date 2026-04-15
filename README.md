@@ -56,6 +56,6 @@ Buka http://localhost:3000 pada browser favoritmu.
 
 ## 👤 Author
 
-- **Hikmal Apriliano** - Full Stack Web Developer
+- **Hikmal Apriliano**
 
 ---
